@@ -3,12 +3,12 @@ storage: none
 lowest_matching: true
 nuget Argu
 nuget FSharp.Core >= 6.0.0
-nuget Expecto 
+nuget Expecto
 nuget Serilog
 nuget Serilog.Sinks.Console
 nuget Serilog.Sinks.TestCorrelator
 nuget SourceLink.Create.CommandLine 2.8.0 copy_local: true
-nuget Giraffe ~> 6
+nuget Giraffe ~> 7
 nuget Microsoft.AspNetCore.Server.Kestrel
 nuget Microsoft.AspNetCore.Hosting
 nuget Microsoft.AspNetCore.TestHost
